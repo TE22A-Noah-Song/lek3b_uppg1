@@ -1,0 +1,42 @@
+.top{
+display:flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+border: 2px solid red; 
+min-height: 80px;
+font-size: 15px;
+font-family: monospace;
+
+}
+
+.rubrik{
+text-align: center;
+background-color: aqua;
+border: 2px solid black;
+padding-left:60px;
+padding-right:60px;
+}
+
+.mid{
+display: flex;
+border: 2px solid orange;
+}
+
+.rub1{
+background-color: yellow;
+min-width: 49.4%;
+border: 2px solid black;
+text-align: center;
+}
+.rub2{
+background-color: pink;
+min-width: 49.4%;
+border: 2px solid black;
+text-align: center;
+}
+
+.botten{
+border: 2px solid yellow
+}
+
